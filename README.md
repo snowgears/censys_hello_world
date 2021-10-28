@@ -1,5 +1,5 @@
 # Censys ASM API Example
-Simple script to showcase pulling down Censys logs via the [Censys python wrapper API](https://github.com/censys/censys-python).
+Simple script to showcase pulling down Censys ASM data via the [Censys python wrapper API](https://github.com/censys/censys-python).
 
 **Steps for getting started:**
 - Install the libraries in requirements.txt
