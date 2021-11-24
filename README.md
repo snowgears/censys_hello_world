@@ -17,3 +17,4 @@ Now just run the script:
 ``` 
 py -3 pull_clouds.py
 ```
+If want to use the **requests_pull_clouds.py** file, which showcases using the requests library instead of the Censys python wrapper, you need to rename the file '.env example' to '.env' and replace the placeholder api-key value with your censys-api-key.
