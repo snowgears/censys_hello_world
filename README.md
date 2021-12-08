@@ -3,9 +3,7 @@ Simple script to showcase pulling down Censys ASM data via the [Censys python wr
 
 **Steps for getting started:**
 - Install the libraries in requirements.txt
-   - ```python -m pip install -r requirements.txt```
-- If for whatever reason your environment installs an old version of the censys module, you can upgrade it.
-   - ```pip install --upgrade censys```
+   - ```pip install --upgrade -r requirements.txt```
 - Set your Censys ASM API key
    - ```censys asm config```
    - (find your ASM API key here: https://app.censys.io/integrations)
